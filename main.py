@@ -1,2 +1,3 @@
 user_name = input("Enter your name: ")
-print("Hello " + user_name + "!")
+last_name = input("Enter your last name: ")
+print("Hello " + user_name + last_name + "!")
